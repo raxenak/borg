@@ -688,3 +688,4 @@ setup(
     install_requires=install_requires,
     extras_require=extras_require,
 )
+print("Borg requires Python %d.%d or later" % min_python)
