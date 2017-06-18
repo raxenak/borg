@@ -3,7 +3,7 @@
 Authors
 =======
 
-.. include:: ../AUTHORS
+.. include:: ../AUTHORS 
 
 License
 =======
